@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.bab2289d.chunk.css",
-    "main.js": "./static/js/main.99d8289e.chunk.js",
+    "main.js": "./static/js/main.9fca0831.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.c7bc4e54.js",
     "static/css/2.4304c142.chunk.css": "./static/css/2.4304c142.chunk.css",
-    "static/js/2.c200324b.chunk.js": "./static/js/2.c200324b.chunk.js",
+    "static/js/2.2425cfe9.chunk.js": "./static/js/2.2425cfe9.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.c200324b.chunk.js.LICENSE.txt": "./static/js/2.c200324b.chunk.js.LICENSE.txt",
+    "static/js/2.2425cfe9.chunk.js.LICENSE.txt": "./static/js/2.2425cfe9.chunk.js.LICENSE.txt",
     "static/media/material-design-icons.css": "./static/media/materialdesignicons-webfont.b1a1d713.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c7bc4e54.js",
     "static/css/2.4304c142.chunk.css",
-    "static/js/2.c200324b.chunk.js",
+    "static/js/2.2425cfe9.chunk.js",
     "static/css/main.bab2289d.chunk.css",
-    "static/js/main.99d8289e.chunk.js"
+    "static/js/main.9fca0831.chunk.js"
   ]
 }
