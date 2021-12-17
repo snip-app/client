@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.76b9d46c.chunk.css",
-    "main.js": "./static/js/main.ee2adb87.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.ebe0b4c2.js",
-    "static/css/2.867264e2.chunk.css": "./static/css/2.867264e2.chunk.css",
-    "static/js/2.1c18700f.chunk.js": "./static/js/2.1c18700f.chunk.js",
+    "main.css": "./static/css/main.d8833622.chunk.css",
+    "main.js": "./static/js/main.687e3673.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.90d54d4c.js",
+    "static/css/2.123e5639.chunk.css": "./static/css/2.123e5639.chunk.css",
+    "static/js/2.09e5fb58.chunk.js": "./static/js/2.09e5fb58.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.1c18700f.chunk.js.LICENSE.txt": "./static/js/2.1c18700f.chunk.js.LICENSE.txt",
+    "static/js/2.09e5fb58.chunk.js.LICENSE.txt": "./static/js/2.09e5fb58.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/NotoSansMono-Light.3d9b8442.ttf",
-    "static/media/bootstrap-icons.css": "./static/media/bootstrap-icons.dfd0ea12.woff2"
+    "static/media/bootstrap-icons.css": "./static/media/bootstrap-icons.38c4d249.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ebe0b4c2.js",
-    "static/css/2.867264e2.chunk.css",
-    "static/js/2.1c18700f.chunk.js",
-    "static/css/main.76b9d46c.chunk.css",
-    "static/js/main.ee2adb87.chunk.js"
+    "static/js/runtime-main.90d54d4c.js",
+    "static/css/2.123e5639.chunk.css",
+    "static/js/2.09e5fb58.chunk.js",
+    "static/css/main.d8833622.chunk.css",
+    "static/js/main.687e3673.chunk.js"
   ]
 }
