@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.7ed5f44a.chunk.css",
-    "main.js": "./static/js/main.5a02e6ed.chunk.js",
+    "main.css": "./static/css/main.4752cac1.chunk.css",
+    "main.js": "./static/js/main.b509d3fd.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.90d54d4c.js",
     "static/css/2.123e5639.chunk.css": "./static/css/2.123e5639.chunk.css",
-    "static/js/2.41bffc39.chunk.js": "./static/js/2.41bffc39.chunk.js",
+    "static/js/2.cf26f27f.chunk.js": "./static/js/2.cf26f27f.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.41bffc39.chunk.js.LICENSE.txt": "./static/js/2.41bffc39.chunk.js.LICENSE.txt",
+    "static/js/2.cf26f27f.chunk.js.LICENSE.txt": "./static/js/2.cf26f27f.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/NotoSansMono-Light.3d9b8442.ttf",
     "static/media/bootstrap-icons.css": "./static/media/bootstrap-icons.38c4d249.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.90d54d4c.js",
     "static/css/2.123e5639.chunk.css",
-    "static/js/2.41bffc39.chunk.js",
-    "static/css/main.7ed5f44a.chunk.css",
-    "static/js/main.5a02e6ed.chunk.js"
+    "static/js/2.cf26f27f.chunk.js",
+    "static/css/main.4752cac1.chunk.css",
+    "static/js/main.b509d3fd.chunk.js"
   ]
 }
