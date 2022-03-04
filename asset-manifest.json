@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.975f934a.chunk.css",
-    "main.js": "./static/js/main.b7d8ad3a.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.90d54d4c.js",
-    "static/css/2.123e5639.chunk.css": "./static/css/2.123e5639.chunk.css",
-    "static/js/2.bb89228d.chunk.js": "./static/js/2.bb89228d.chunk.js",
-    "index.html": "./index.html",
-    "static/js/2.bb89228d.chunk.js.LICENSE.txt": "./static/js/2.bb89228d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "./static/media/NotoSansMono-Light.3d9b8442.ttf",
-    "static/media/bootstrap-icons.css": "./static/media/bootstrap-icons.38c4d249.woff"
+    "main.css": "./static/css/main.eb9b67c7.css",
+    "main.js": "./static/js/main.3244a4ec.js",
+    "static/js/728.762419cf.chunk.js": "./static/js/728.762419cf.chunk.js",
+    "static/js/985.b2a13b25.chunk.js": "./static/js/985.b2a13b25.chunk.js",
+    "static/js/281.884810f7.chunk.js": "./static/js/281.884810f7.chunk.js",
+    "static/js/49.a5f8aadc.chunk.js": "./static/js/49.a5f8aadc.chunk.js",
+    "static/media/NotoSans-LightItalic.ttf": "./static/media/NotoSans-LightItalic.72289faba343946cb826.ttf",
+    "static/media/NotoSans-Italic.ttf": "./static/media/NotoSans-Italic.08690ed789a5532ed7be.ttf",
+    "static/media/NotoSans-Regular.ttf": "./static/media/NotoSans-Regular.e962f548522aa99bb8f9.ttf",
+    "static/media/NotoSans-Light.ttf": "./static/media/NotoSans-Light.ec4d9e9279b29533ed19.ttf",
+    "static/media/NotoSansMono-Light.ttf": "./static/media/NotoSansMono-Light.3d9b84423a43452aafcc.ttf",
+    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/js/runtime-main.90d54d4c.js",
-    "static/css/2.123e5639.chunk.css",
-    "static/js/2.bb89228d.chunk.js",
-    "static/css/main.975f934a.chunk.css",
-    "static/js/main.b7d8ad3a.chunk.js"
+    "static/css/main.eb9b67c7.css",
+    "static/js/main.3244a4ec.js"
   ]
 }
