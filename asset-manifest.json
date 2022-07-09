@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.fcd5ec4e.css",
-    "main.js": "./static/js/main.dd303e1a.js",
+    "main.css": "./static/css/main.f7ab9038.css",
+    "main.js": "./static/js/main.ad574de3.js",
     "static/js/758.03838a8d.chunk.js": "./static/js/758.03838a8d.chunk.js",
     "static/js/424.b1dc9d55.chunk.js": "./static/js/424.b1dc9d55.chunk.js",
     "static/js/314.a7b6753d.chunk.js": "./static/js/314.a7b6753d.chunk.js",
@@ -11,12 +11,12 @@
     "static/media/NotoSans-Regular.ttf": "./static/media/NotoSans-Regular.e962f548522aa99bb8f9.ttf",
     "static/media/NotoSans-Light.ttf": "./static/media/NotoSans-Light.ec4d9e9279b29533ed19.ttf",
     "static/media/NotoSansMono-Light.ttf": "./static/media/NotoSansMono-Light.3d9b84423a43452aafcc.ttf",
-    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
-    "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.fcd5ec4e.css",
-    "static/js/main.dd303e1a.js"
+    "static/css/main.f7ab9038.css",
+    "static/js/main.ad574de3.js"
   ]
 }
