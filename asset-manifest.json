@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.2436f7cd.css",
-    "main.js": "./static/js/main.9bea1fcc.js",
-    "static/js/430.8d1d1010.chunk.js": "./static/js/430.8d1d1010.chunk.js",
-    "static/js/369.ac35c09a.chunk.js": "./static/js/369.ac35c09a.chunk.js",
-    "static/js/461.6c808917.chunk.js": "./static/js/461.6c808917.chunk.js",
-    "static/js/56.8be51adf.chunk.js": "./static/js/56.8be51adf.chunk.js",
+    "main.js": "./static/js/main.72eab964.js",
+    "static/js/430.6be49713.chunk.js": "./static/js/430.6be49713.chunk.js",
+    "static/js/369.a60934de.chunk.js": "./static/js/369.a60934de.chunk.js",
+    "static/js/461.d9f3d825.chunk.js": "./static/js/461.d9f3d825.chunk.js",
+    "static/js/56.49fe58db.chunk.js": "./static/js/56.49fe58db.chunk.js",
     "static/media/NotoSans-LightItalic.ttf": "./static/media/NotoSans-LightItalic.72289faba343946cb826.ttf",
     "static/media/NotoSans-Italic.ttf": "./static/media/NotoSans-Italic.08690ed789a5532ed7be.ttf",
     "static/media/NotoSans-Regular.ttf": "./static/media/NotoSans-Regular.e962f548522aa99bb8f9.ttf",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.2436f7cd.css",
-    "static/js/main.9bea1fcc.js"
+    "static/js/main.72eab964.js"
   ]
 }
